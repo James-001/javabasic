@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace = "com.example.elastic.dao.UserMapper">
+	<sql id="tableName">
+		user
+	</sql>
+	<resultMap type="com.example.elastic.entity.User" id="BaseResultMap">
+		<id column="id" property="id" jdbcType="INTEGER" />
+		<result column="name" property="name" jdbcType="VARCHAR" />
+		<result column="sex" property="sex" jdbcType="VARCHAR" />
+	</resultMap>
+	
+	<!-- 字段 -->
+	<sql id="Field">
+		id, name, sex
+	</sql>
+	
+	<!-- 通过ID获取数据 -->
+	<select id="findAll" resultMap="BaseResultMap">
+		select 
+		<include refid="Field"></include>
+		from
+		<include refid="tableName"></include>
+		WHERE status = 0 and MOD(id, #{shardingTotalCount}) = #{shardingItem}
+	</select>
+	
+	<update id="updateUser" parameterType="com.example.elastic.entity.User">
+		update 
+		<include refid="tableName"></include>
+		<set>
+			<if test="status != null"> status = #{status} </if>
+		</set>
+		where id = #{id}
+	</update>
+</mapper>
