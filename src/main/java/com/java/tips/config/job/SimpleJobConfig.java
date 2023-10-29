@@ -25,11 +25,9 @@ import com.dangdang.ddframe.job.lite.api.JobScheduler;
 import com.dangdang.ddframe.job.lite.config.LiteJobConfiguration;
 import com.dangdang.ddframe.job.lite.spring.api.SpringJobScheduler;
 import com.dangdang.ddframe.job.reg.zookeeper.ZookeeperRegistryCenter;
-import com.example.elastic.job.DemoSimpleJob;
-
+import com.java.tips.job.DemoSimpleJob;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
-import org.springframework.context.annotation.Configuration;
 
 import javax.annotation.Resource;
 
@@ -44,7 +42,7 @@ public class SimpleJobConfig {
     
     @Bean
     public SimpleJob simpleJob() {
-        return new DemoSimpleJob(); 
+        return new DemoSimpleJob();
     }
     
     @Bean(initMethod = "init")

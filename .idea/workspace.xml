@@ -2,126 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a47f09fc-6b23-4c8a-8743-2dfdeedcb039" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/CopyOnWriteArrayList/ConcurrentHashMapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/CopyOnWriteArrayList/ConcurrentHashMapDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/CopyOnWriteArrayList/CopyOnWriteArrayListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/CopyOnWriteArrayList/CopyOnWriteArrayListDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/CopyOnWriteArrayList/SetDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/CopyOnWriteArrayList/SetDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/ElasticJobApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/ElasticJobApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/JVM/Demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/JVM/Demo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/JVM/JVMTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/JVM/JVMTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/activeMQ/PTPReceiveListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/activeMQ/PTPReceiveListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/activeMQ/PTPReceiveReceive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/activeMQ/PTPReceiveReceive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/activeMQ/PTPReceiveReceiveSecond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/activeMQ/PTPReceiveReceiveSecond.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/activeMQ/PTPSend.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/activeMQ/PTPSend.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/annontion/Sharding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/annontion/Sharding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/annontion/ShardingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/annontion/ShardingTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/annotation/AnnotationDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/annotation/Template.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/annotation/Template.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/beanLife/MyBeanFactoryPostProcessor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/beanLife/MyBeanPostProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/beanLife/MyBeanPostProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/beanLife/MyInstantiationAwareBeanPostProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/beanLife/MyInstantiationAwareBeanPostProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/beanLife/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/beanLife/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/beanLife/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/beanLife/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/config/BeanConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/config/BeanConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/config/Sddd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/config/Sddd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/config/job/DataflowJobConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/config/job/DataflowJobConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/config/job/JobEventConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/config/job/JobEventConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/config/job/RegistryCenterConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/config/job/RegistryCenterConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/config/job/SimpleJobConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/config/job/SimpleJobConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/controller/SwitchController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/dao/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/dao/UserMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/elasticLock/RedisLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/elasticLock/RedisLock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/entity/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/enumdemo/ApiException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/enumdemo/ApiException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/enumdemo/CodeEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/enumdemo/CodeEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/enumdemo/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/enumdemo/Result.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/enumdemo/TestEnum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/exception/AuxOpCodeEnum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/exception/ExceptionDeal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/exception/ExceptionDeal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/fanxing/FanxingClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/fanxing/FanxingMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/fanxing/FanxingMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/fanxing/Jihe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/fanxing/Jihe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/fanxing/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/fanxing/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/fanxing/jiekou/BigPublicCar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/fanxing/jiekou/Che.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/fanxing/jiekou/SmallCar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/fanxing/jiekou/TestDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/fanxing/jiekou/TestDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/fanxing/jiekou/TestDemo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/fenBuShiLock/DistributedLock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/fenBuShiLock/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/fenBuShiLock/Service.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/fenBuShiLock/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/filestream/PictureSave.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/filestream/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/gson/Gsons.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/gson/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/gson/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/guava/GuavaUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/guava/GuavaUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/hash/HashDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/jicheng/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/jicheng/Fulei.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/jicheng/Zilei.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/jicheng/Zilei.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/jihe/ListDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/jihe/ListDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/jihe/ListDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/jihe/OpDetail.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/jihe/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/job/DemoSimpleJob.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/job/Jdk8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/job/Jdk8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/job/MyDataFlowJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/job/MyDataFlowJob.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/job/listener/MyElasticJobListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/job/listener/MyElasticJobListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/neibulei/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/neibulei/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/neibulei/Famer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/neibulei/Famer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/neibulei/NiMing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/neibulei/NiMing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/neibulei/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/neibulei/Test2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/network/NetWork.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/redis/JedisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/redis/JedisConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/redis/TestJedis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/redis/TestJedis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/reflect/BasicFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/reflect/BasicFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/reflect/ShouJi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/reflect/ShouJi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/reflect/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/reflect/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/reflect/reflect2/ReflectTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/sheJiMoShi/GC/INoodles.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/sheJiMoShi/GC/LzNoodles.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/sheJiMoShi/GC/PaoMiaoNoodles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/sheJiMoShi/GC/PaoMiaoNoodles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/sheJiMoShi/GC/SimpleNoodlesFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/sheJiMoShi/GC/SimpleNoodlesFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/sheJiMoShi/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/staticClass/DateUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/staticClass/SmsRetry.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/staticClass/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/staticDemo/StaticDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/superfunction/Father.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/superfunction/Son.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/superfunction/Son.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/superfunction/SuperTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/sychronized/Piao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/test/Dogs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/test/GroupMethod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/test/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/test/TestDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/test/TestDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/thread/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/thread/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/thread/Thread3/Thread1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/thread/Thread3/Thread2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/thread/Thread3/Thread3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/thread/Thread3/Thread3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/thread/deadLock/DeadLockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/thread/deadLock/DeadLockDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/thread/threadLocal/ThreadLocalDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/thread/tongbu/SynchronizedDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/thread/tongbu/ThreadLockSecurity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/tianjindemo/HttpUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/tianjindemo/HttpUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/tianjindemo/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/timer/TimerDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/transaction/BookFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/transaction/BookFacade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/transaction/BookFacadeImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/transaction/BookFacadeProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/transaction/BookFacadeProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/transaction/TestProxy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/transaction/Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/transaction/Transaction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/xuliehua/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/xuliehua/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/xuliehua/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/zhichuandi/AppProperties.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/zhichuandi/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/zhichuandi/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/elastic/job/ElasticJobApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/elastic/job/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/elastic/job/Test2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/tips/config/job/DataflowJobConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/config/job/DataflowJobConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/tips/config/job/SimpleJobConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/config/job/SimpleJobConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/tips/dao/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/dao/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/tips/guava/GuavaUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/guava/GuavaUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/tips/job/MyDataFlowJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/job/MyDataFlowJob.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -137,19 +23,112 @@
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
-              <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PTPReceiveListener.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PTPReceiveListener.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/java/tips/activeMQ/PTPReceiveListener.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="18" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="18" />
+            <state relative-caret-position="375">
+              <caret line="68" column="21" selection-start-line="68" selection-start-column="21" selection-end-line="68" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sharding.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/java/tips/annontion/Sharding.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShardingTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/java/tips/annontion/ShardingTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+              <folding>
+                <element signature="e#290#291#0" expanded="true" />
+                <element signature="e#322#323#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataflowJobConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/java/tips/config/job/DataflowJobConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleJobConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/java/tips/config/job/SimpleJobConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="44" column="35" lean-forward="true" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1649#1650#0" expanded="true" />
+                <element signature="e#1692#1693#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/java/tips/dao/UserMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GuavaUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/java/tips/guava/GuavaUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-704">
+              <caret line="50" column="21" lean-forward="true" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyDataFlowJob.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/java/tips/job/MyDataFlowJob.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sddd.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/java/tips/config/Sddd.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -168,6 +147,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java/tips/config/job/DataflowJobConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java/tips/config/job/SimpleJobConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java/tips/dao/UserMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java/tips/guava/GuavaUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java/tips/job/MyDataFlowJob.java" />
       </list>
     </option>
   </component>
@@ -212,26 +196,107 @@
         <subPane>
           <expand>
             <path>
-              <item name="elastic-job" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javabasic" type="b2602c69:ProjectViewProjectNode" />
               <item name="javabasic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="elastic-job" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javabasic" type="b2602c69:ProjectViewProjectNode" />
               <item name="javabasic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="elastic-job" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javabasic" type="b2602c69:ProjectViewProjectNode" />
               <item name="javabasic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="elastic-job" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javabasic" type="b2602c69:ProjectViewProjectNode" />
               <item name="javabasic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javabasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javabasic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tips" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javabasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javabasic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tips" type="462c0819:PsiDirectoryNode" />
+              <item name="activeMQ" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javabasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javabasic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tips" type="462c0819:PsiDirectoryNode" />
+              <item name="annontion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javabasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javabasic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tips" type="462c0819:PsiDirectoryNode" />
+              <item name="beanLife" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javabasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javabasic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tips" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javabasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javabasic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tips" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="job" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javabasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javabasic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tips" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javabasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javabasic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tips" type="462c0819:PsiDirectoryNode" />
+              <item name="guava" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javabasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javabasic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tips" type="462c0819:PsiDirectoryNode" />
+              <item name="job" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -264,6 +329,17 @@
     </option>
   </component>
   <component name="RunManager">
+    <configuration name="ShardingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.tips.annontion.ShardingTest" />
+      <module name="java-basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.tips.annontion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -305,6 +381,11 @@
       <properties />
       <listeners />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ShardingTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -319,15 +400,16 @@
       <workItem from="1698486251591" duration="241000" />
       <workItem from="1698550370586" duration="15000" />
       <workItem from="1698550605661" duration="223000" />
-      <workItem from="1698550844817" duration="251000" />
+      <workItem from="1698550844817" duration="897000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="730000" />
+    <option name="totallyTimeSpent" value="1376000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -341,6 +423,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" visible="true" weight="0.32872927" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="8" />
@@ -379,19 +462,179 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/tips/config/Sddd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/java/tips/activeMQ/PTPReceiveListener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="18" />
+        <state relative-caret-position="375">
+          <caret line="68" column="21" selection-start-line="68" selection-start-column="21" selection-end-line="68" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/tips/annontion/Sharding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/tips/annontion/ShardingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/tips/job/listener/MyElasticJobListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/tips/config/job/DataflowJobConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/tips/config/job/SimpleJobConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="44" column="35" lean-forward="true" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1649#1650#0" expanded="true" />
+            <element signature="e#1692#1693#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/tips/dao/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/tips/guava/GuavaUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-704">
+          <caret line="50" column="21" lean-forward="true" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/tips/job/MyDataFlowJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.40574712" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>java-basic</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

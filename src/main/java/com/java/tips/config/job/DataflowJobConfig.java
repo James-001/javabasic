@@ -25,9 +25,9 @@ import com.dangdang.ddframe.job.lite.api.JobScheduler;
 import com.dangdang.ddframe.job.lite.config.LiteJobConfiguration;
 import com.dangdang.ddframe.job.lite.spring.api.SpringJobScheduler;
 import com.dangdang.ddframe.job.reg.zookeeper.ZookeeperRegistryCenter;
-import com.example.elastic.job.MyDataFlowJob;
-import com.example.elastic.job.listener.MyElasticJobListener;
 
+import com.java.tips.job.MyDataFlowJob;
+import com.java.tips.job.listener.MyElasticJobListener;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -48,7 +48,7 @@ public class DataflowJobConfig {
     
     @Bean
     public DataflowJob dataflowJob() {
-        return new MyDataFlowJob(); 
+        return new MyDataFlowJob();
     }
     
     @Bean(initMethod = "init")

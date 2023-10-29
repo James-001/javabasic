@@ -2,13 +2,11 @@ package com.java.tips.job;
 
 import com.dangdang.ddframe.job.api.ShardingContext;
 import com.dangdang.ddframe.job.api.dataflow.DataflowJob;
-import com.example.elastic.dao.UserMapper;
-import com.example.elastic.entity.User;
 import com.java.tips.dao.UserMapper;
 import com.java.tips.entity.User;
 
-import java.util.List;
 import javax.annotation.Resource;
+import java.util.List;
 
 public class MyDataFlowJob implements DataflowJob<User> {
 	
