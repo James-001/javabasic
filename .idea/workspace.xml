@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a47f09fc-6b23-4c8a-8743-2dfdeedcb039" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/CopyOnWriteArrayList/ConcurrentHashMapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/CopyOnWriteArrayList/ConcurrentHashMapDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/CopyOnWriteArrayList/CopyOnWriteArrayListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/CopyOnWriteArrayList/CopyOnWriteArrayListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/CopyOnWriteArrayList/SetDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/CopyOnWriteArrayList/SetDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/ElasticJobApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/ElasticJobApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/JVM/Demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/JVM/Demo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/JVM/JVMTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/JVM/JVMTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/activeMQ/PTPReceiveListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/activeMQ/PTPReceiveListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/activeMQ/PTPReceiveReceive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/activeMQ/PTPReceiveReceive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/activeMQ/PTPReceiveReceiveSecond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/activeMQ/PTPReceiveReceiveSecond.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/activeMQ/PTPSend.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/activeMQ/PTPSend.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/annontion/Sharding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/annontion/Sharding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/annontion/ShardingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/annontion/ShardingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/annotation/AnnotationDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/annotation/Template.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/annotation/Template.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/beanLife/MyBeanFactoryPostProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/beanLife/MyBeanPostProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/beanLife/MyBeanPostProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/beanLife/MyInstantiationAwareBeanPostProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/beanLife/MyInstantiationAwareBeanPostProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/beanLife/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/beanLife/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/beanLife/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/beanLife/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/config/BeanConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/config/BeanConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/config/Sddd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/config/Sddd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/config/job/DataflowJobConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/config/job/DataflowJobConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/config/job/JobEventConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/config/job/JobEventConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/config/job/RegistryCenterConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/config/job/RegistryCenterConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/config/job/SimpleJobConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/config/job/SimpleJobConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/controller/SwitchController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/dao/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/dao/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/elasticLock/RedisLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/elasticLock/RedisLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/enumdemo/ApiException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/enumdemo/ApiException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/enumdemo/CodeEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/enumdemo/CodeEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/enumdemo/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/enumdemo/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/enumdemo/TestEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/exception/AuxOpCodeEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/exception/ExceptionDeal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/exception/ExceptionDeal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/fanxing/FanxingClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/fanxing/FanxingMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/fanxing/FanxingMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/fanxing/Jihe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/fanxing/Jihe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/fanxing/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/fanxing/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/fanxing/jiekou/BigPublicCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/fanxing/jiekou/Che.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/fanxing/jiekou/SmallCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/fanxing/jiekou/TestDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/fanxing/jiekou/TestDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/fanxing/jiekou/TestDemo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/fenBuShiLock/DistributedLock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/fenBuShiLock/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/fenBuShiLock/Service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/fenBuShiLock/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/filestream/PictureSave.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/filestream/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/gson/Gsons.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/gson/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/gson/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/guava/GuavaUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/guava/GuavaUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/hash/HashDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/jicheng/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/jicheng/Fulei.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/jicheng/Zilei.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/jicheng/Zilei.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/jihe/ListDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/jihe/ListDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/jihe/ListDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/jihe/OpDetail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/jihe/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/job/DemoSimpleJob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/job/Jdk8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/job/Jdk8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/job/MyDataFlowJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/job/MyDataFlowJob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/job/listener/MyElasticJobListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/job/listener/MyElasticJobListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/neibulei/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/neibulei/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/neibulei/Famer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/neibulei/Famer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/neibulei/NiMing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/neibulei/NiMing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/neibulei/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/neibulei/Test2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/network/NetWork.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/redis/JedisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/redis/JedisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/redis/TestJedis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/redis/TestJedis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/reflect/BasicFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/reflect/BasicFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/reflect/ShouJi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/reflect/ShouJi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/reflect/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/reflect/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/reflect/reflect2/ReflectTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/sheJiMoShi/GC/INoodles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/sheJiMoShi/GC/LzNoodles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/sheJiMoShi/GC/PaoMiaoNoodles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/sheJiMoShi/GC/PaoMiaoNoodles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/sheJiMoShi/GC/SimpleNoodlesFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/sheJiMoShi/GC/SimpleNoodlesFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/sheJiMoShi/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/staticClass/DateUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/staticClass/SmsRetry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/staticClass/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/staticDemo/StaticDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/superfunction/Father.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/superfunction/Son.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/superfunction/Son.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/superfunction/SuperTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/sychronized/Piao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/test/Dogs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/test/GroupMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/test/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/test/TestDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/test/TestDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/thread/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/thread/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/thread/Thread3/Thread1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/thread/Thread3/Thread2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/thread/Thread3/Thread3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/thread/Thread3/Thread3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/thread/deadLock/DeadLockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/thread/deadLock/DeadLockDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/thread/threadLocal/ThreadLocalDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/thread/tongbu/SynchronizedDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/thread/tongbu/ThreadLockSecurity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/tianjindemo/HttpUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/tianjindemo/HttpUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/tianjindemo/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/timer/TimerDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/transaction/BookFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/transaction/BookFacade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/transaction/BookFacadeImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/transaction/BookFacadeProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/transaction/BookFacadeProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/transaction/TestProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/transaction/Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/transaction/Transaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/xuliehua/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/xuliehua/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/tips/xuliehua/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/zhichuandi/AppProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/zhichuandi/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/elastic/zhichuandi/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/elastic/job/ElasticJobApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/elastic/job/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/elastic/job/Test2.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PTPReceiveListener.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/java/tips/activeMQ/PTPReceiveListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="18" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>elastic</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/software/maven/apache-maven-3.5.2" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1750" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="elastic-job" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javabasic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elastic-job" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javabasic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elastic-job" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javabasic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elastic-job" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javabasic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.40574712" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a47f09fc-6b23-4c8a-8743-2dfdeedcb039" name="Default" comment="" />
+      <created>1698486246985</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698486246985</updated>
+      <workItem from="1698486251591" duration="241000" />
+      <workItem from="1698550370586" duration="15000" />
+      <workItem from="1698550605661" duration="223000" />
+      <workItem from="1698550844817" duration="251000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="730000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="8" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32096353" />
+      <window_info anchor="right" id="Bean Validation" order="4" />
+      <window_info id="Web" order="3" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/tips/activeMQ/PTPReceiveListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

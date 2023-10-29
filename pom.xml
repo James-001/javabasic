@@ -4,15 +4,13 @@
     <modelVersion>4.0.0</modelVersion>
     
     <groupId>com.example</groupId>
-    <artifactId>elastic-job</artifactId>
+    <artifactId>java-basic</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
     
-    <name>elastic-job</name>
+    <name>java-basics</name>
     <description>Demo project for Spring Boot</description>
-<!--aaaa-->
-<!--cccc-->
-<!--bbbb-->
+
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
